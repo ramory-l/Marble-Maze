@@ -5,6 +5,7 @@ Try to tilt your ball to the finish!
 ## Built With
 
 * SpriteKit framework used
+* CoreMotion framework used
 * Swift programming language
 
 ## Authors
